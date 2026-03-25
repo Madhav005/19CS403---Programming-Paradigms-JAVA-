@@ -29,8 +29,8 @@ To Read N numbers from user, use a fixed thread pool (size 3) to compute the sum
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
