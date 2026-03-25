@@ -26,8 +26,8 @@ To write an enum VehicleType (CAR, BIKE, BUS) with a constructor that takes numb
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
