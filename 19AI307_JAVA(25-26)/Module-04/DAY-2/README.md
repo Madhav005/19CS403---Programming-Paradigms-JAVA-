@@ -32,8 +32,8 @@ To implement the Observer Pattern where a Channel (Subject) notifies all its Sub
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
