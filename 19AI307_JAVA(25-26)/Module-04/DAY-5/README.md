@@ -24,8 +24,8 @@ To Build a simple Air Traffic Control System where multiple Airplane objects req
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
