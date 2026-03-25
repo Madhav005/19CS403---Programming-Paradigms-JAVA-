@@ -26,8 +26,8 @@ To write a Java program to find the square root of a number using Double wrapper
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
