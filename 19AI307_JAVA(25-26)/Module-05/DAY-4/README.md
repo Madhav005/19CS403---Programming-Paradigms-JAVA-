@@ -28,8 +28,8 @@ To Write a java program for determine the priority and name of the current threa
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
