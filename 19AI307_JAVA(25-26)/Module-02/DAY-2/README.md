@@ -28,8 +28,8 @@ To write a Java program that defines a method cube(int x) which internally calls
  ```
 /*
 Program to implement a Methods using Java
-Developed by: YOGESH V S
-RegisterNumber: 212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
