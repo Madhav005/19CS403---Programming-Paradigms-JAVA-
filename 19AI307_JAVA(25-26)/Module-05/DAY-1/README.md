@@ -27,8 +27,8 @@ To Write a program to demonstrate chaining of streams (BufferedReader on top of 
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
