@@ -26,8 +26,8 @@ To create a program that loads an operating system shell using the Factory Patte
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: YOGESH V S
-RegisterNumber:  212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
