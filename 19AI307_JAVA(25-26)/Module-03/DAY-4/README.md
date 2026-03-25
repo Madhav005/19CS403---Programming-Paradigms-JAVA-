@@ -40,8 +40,8 @@ To design a unified controller system using Java Interfaces where different gami
  ```
 /*
 Program to implement a Interface using Java
-Developed by: YOGESH V S
-RegisterNumber: 212222040185
+Developed by: MADHAVAN M
+RegisterNumber: 212222040089
 */
 ```
 
